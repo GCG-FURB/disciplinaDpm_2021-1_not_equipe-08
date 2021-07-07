@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740533263742",
+    "project_id": "trabalho-final-dpm",
+    "storage_bucket": "trabalho-final-dpm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740533263742:android:fcea79ea2a6e4e9467e72f",
+        "android_client_info": {
+          "package_name": "com.example.webserviceestoque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740533263742-cqs8edm7mver93pnegne5t46gqhi8q39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQgqz66j-6xsuuERp6PIX2d5Pg6w70BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740533263742-cqs8edm7mver93pnegne5t46gqhi8q39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

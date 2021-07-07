@@ -1,0 +1,2 @@
+rootProject.name = "WebServiceEstoque"
+include ':app'
